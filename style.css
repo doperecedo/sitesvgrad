@@ -341,14 +341,9 @@ p, span {
   transition: .4s;
 }
 
-.content-box-name {
-  text-align: center;
-  font-size: 2rem;
-}
-
 .img-content-icon {
-  width: 6rem;
-  margin-bottom: 1rem;
+  width: 15.5rem;
+  /*margin-bottom: 1rem;*/
 }
 
 .div-footer {
